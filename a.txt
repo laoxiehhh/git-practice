@@ -3,4 +3,8 @@ im cool boy
 nonono
 log
 stash
+<<<<<<< Updated upstream
 change by github
+=======
+haha by vim
+>>>>>>> Stashed changes
